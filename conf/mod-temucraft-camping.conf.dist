@@ -1,0 +1,33 @@
+[worldserver]
+
+########################################
+# mod-temucraft-camping
+########################################
+#
+#    Temucraft.Camping.Enable
+#        Description: Camp features (Camp Tent, Sharpening Wheel, Incense Candle, Lodestone, Mana Well, Camp Chair)
+#                     set down by a campfire; resting there for a minute gives their benefits.
+#        Default:     1
+
+Temucraft.Camping.Enable = 1
+
+#
+#    Temucraft.Camping.MaxFeatures
+#        Description: Camp features one campfire can hold.
+#        Default:     3
+
+Temucraft.Camping.MaxFeatures = 3
+
+#
+#    Temucraft.Camping.FeatureDuration
+#        Description: Seconds a camp feature stays.
+#        Default:     1800
+
+Temucraft.Camping.FeatureDuration = 1800
+
+#
+#    Temucraft.Camping.GrowerTime
+#        Description: Seconds before a Herb Planter or Ore Extractor set by a campfire can be harvested.
+#        Default:     600
+
+Temucraft.Camping.GrowerTime = 600
